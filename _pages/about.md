@@ -19,10 +19,14 @@ My research interest is **AI for Science**.
 ## Education
 
 - B.S. in Bioinformatics, Shanghai Jiao Tong University, 2019-2023
-- Ph.D. in Computer Science and Technology, Shanghai Jiao Tong University, 2023-2028(Expected)
+- Ph.D. in Computer Science and Technology, Shanghai Jiao Tong University, 2023-Now
 
 
 ## Publications
 
 
-## 
+## Honors and Awards
+
+Excellent Graduate | Shanghai Jiao Tong University  <div style="text-align:right;"> 2023 </div>
+
+Gold Medal and Best Software Project Nomination | iGEM 2021  <div style="text-align:right;"> 2021 </div>
