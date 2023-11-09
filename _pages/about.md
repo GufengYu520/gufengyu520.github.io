@@ -33,10 +33,10 @@ Zero.
 
 ## Honors and Awards
 
-**Excellent Graduate** | Shanghai Jiao Tong University
+**Excellent Graduate** \| Shanghai Jiao Tong University
 
 <div style="text-align:right;"> 2023 </div>
 
-**Gold Medal and Best Software Project Nomination** | iGEM 2021
+**Gold Medal and Best Software Project Nomination** \| iGEM 2021
 
 <div style="text-align: right"> 2021 </div>
