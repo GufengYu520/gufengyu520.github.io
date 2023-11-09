@@ -12,6 +12,12 @@ My name is Gufeng Yu from Yueyang, Hunan. I'm currently a Ph.D. candidate at the
 
 My research interest is **AI for Science**. Specifically, the main research areas are the application of AI in genomics and organic chemistry. Examples include gene regulatory network reconstruction, cancer genomics and chemical reaction prediction.
 
+My research interest is **AI for Science**. Specifically, the main research areas are the application of AI in genomics and organic chemistry. Examples include gene regulatory network reconstruction, cancer genomics and chemical reaction prediction.
+
+My research interest is **AI for Science**. Specifically, the main research areas are the application of AI in genomics and organic chemistry. Examples include gene regulatory network reconstruction, cancer genomics and chemical reaction prediction.
+
+My research interest is **AI for Science**. Specifically, the main research areas are the application of AI in genomics and organic chemistry. Examples include gene regulatory network reconstruction, cancer genomics and chemical reaction prediction.
+
 
 
 ## Recent News
