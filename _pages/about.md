@@ -12,12 +12,6 @@ My name is Gufeng Yu from Yueyang, Hunan. I'm currently a Ph.D. candidate at the
 
 My research interest is **AI for Science**. Specifically, the main research areas are the application of AI in genomics and organic chemistry. Examples include gene regulatory network reconstruction, cancer genomics and chemical reaction prediction.
 
-My research interest is **AI for Science**. Specifically, the main research areas are the application of AI in genomics and organic chemistry. Examples include gene regulatory network reconstruction, cancer genomics and chemical reaction prediction.
-
-My research interest is **AI for Science**. Specifically, the main research areas are the application of AI in genomics and organic chemistry. Examples include gene regulatory network reconstruction, cancer genomics and chemical reaction prediction.
-
-My research interest is **AI for Science**. Specifically, the main research areas are the application of AI in genomics and organic chemistry. Examples include gene regulatory network reconstruction, cancer genomics and chemical reaction prediction.
-
 
 
 ## Recent News
@@ -33,18 +27,18 @@ My research interest is **AI for Science**. Specifically, the main research area
 
 
 
-## Publications (#equal contribution, *corresponding)
+## Publications
+
+(#equal contribution, *corresponding)
 
 1. **MIGGRI: A multi-instance graph neural network model for inferring gene regulatory networks for Drosophila from spatial expression images**
-
-   Yuyang Huang#, **Gufeng Yu#**, Yang Yang*
-
-   ***PLOS Computational Biology***, 2023 
+	Yuyang Huang#, **Gufeng Yu#**, Yang Yang*
+	***PLOS Computational Biology***, 2023
 
 
 
 ## Honors and Awards
 
-<div style="font-size:16px"><span style="float:right">2023</span><b>Excellent Graduate</b> | Shanghai Jiao Tong University </div>
+**Excellent Graduate** \| Shanghai Jiao Tong University (2023)
 
-<div style="font-size:16px"><span style="float:right">2021</span><b>Gold Medal and Best Software Project Nomination</b> | iGEM 2021 </div>
+**Gold Medal and Best Software Project Nomination** \| iGEM (2021)
