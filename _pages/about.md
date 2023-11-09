@@ -16,27 +16,29 @@ My research interest is **AI for Science**. Specifically, the main research area
 
 ## Recent News
 
+- Nov. 2023, MIGGRI has been accepted by PLOS Computational Biology!
+
 
 
 ## Education
 
-- B.S. in Biotechnology (Bioinformatics), Shanghai Jiao Tong University, 2019-2023
 - Ph.D. in Computer Science and Technology, Shanghai Jiao Tong University, 2023-Now
+- B.S. in Biotechnology (Bioinformatics), Shanghai Jiao Tong University, 2019-2023
 
 
 
-## Publications
+## Publications (#equal contribution, *corresponding)
 
-Zero.
+1. **MIGGRI: A multi-instance graph neural network model for inferring gene regulatory networks for Drosophila from spatial expression images**
+
+   Yuyang Huang#, **Gufeng Yu#**, Yang Yang*
+
+   ***PLOS Computational Biology***, 2023 
 
 
 
 ## Honors and Awards
 
-**Excellent Graduate** \| Shanghai Jiao Tong University
+<div style="font-size:16px"><span style="float:right">2023</span><b>Excellent Graduate</b> | Shanghai Jiao Tong University </div>
 
-<div style="text-align:right;"> 2023 </div>
-
-**Gold Medal and Best Software Project Nomination** \| iGEM 2021
-
-<div style="text-align: right"> 2021 </div>
+<div style="font-size:16px"><span style="float:right">2021</span><b>Gold Medal and Best Software Project Nomination</b> | iGEM 2021 </div>
