@@ -33,9 +33,8 @@ My research interest is **AI for Science**. Specifically, the main research area
 
 1. **MIGGRI: A multi-instance graph neural network model for inferring gene regulatory networks for Drosophila from spatial expression images**  
     Yuyang Huang#, **Gufeng Yu#**, Yang Yang*  
-  ***PLOS Computational Biology***, 2023, 19(11): e1011623.
-  
-  [[Paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011623)
+    ***PLOS Computational Biology***, 2023, 19(11): e1011623.  
+    [[Paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011623)
 
 
 
