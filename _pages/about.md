@@ -36,6 +36,11 @@ My research interest is **AI for Science**. Specifically, the main research area
     ***PLOS Computational Biology***, 2023, 19(11): e1011623.  
     [[Paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011623)
 
+2. **Enhancing Cancer Gene Prediction through Aligned Fusion of Multiple PPI Networks Using Graph Transformer Models**  
+    Zebei Han, **Gufeng Yu**, Yang Yang*  
+    ***2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)***, Istanbul, Turkiye, 2023, pp. 542-547  
+    [[Paper]](https://ieeexplore.ieee.org/document/10385593)
+
 
 
 ## Honors and Awards
