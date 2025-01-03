@@ -35,7 +35,7 @@ My research interest is **AI for Science**. Specifically, the main research area
 1. **Machine Learning for Reaction Performance Prediction in Allylic Substitution Enhanced by Automatic Extraction of a Substrate-Aware Descriptor**  
     **Gufeng Yu#**, Xi Wang#, Yicong Luo, Guanlin Li, Rui Ding, Runhan Shi, Xiaohong Huo\*, Yang Yang*  
     ***Journal of Chemical Information and Modeling***  
-    [[Paper]]()
+    [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.4c02120)
 2. **Prediction of chemical reaction yields with large-scale multi-view pre-training**  
     Runhan Shi, **Gufeng Yu**, Xiaohong Huo, Yang Yang*  
     ***Journal of Cheminformatics***, 2024, 16(1): 1-16.  
