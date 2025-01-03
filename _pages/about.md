@@ -16,7 +16,7 @@ My research interest is **AI for Science**. Specifically, the main research area
 
 ## Recent News
 
-- Jan. 2025, SubA has been accepted by Journal of Chemical Information and Modeling!
+- Dec. 2024, SubA has been accepted by Journal of Chemical Information and Modeling!
 - Nov. 2023, MIGGRI has been accepted by PLOS Computational Biology!
 
 
