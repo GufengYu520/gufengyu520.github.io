@@ -29,7 +29,7 @@ My research interest is **AI for Science**. Specifically, the main research area
 
 
 
-## Publications
+## Selected Publications
 
 (#equal contribution, *corresponding)
 
