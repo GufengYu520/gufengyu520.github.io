@@ -7,7 +7,7 @@ author_profile: true
 
 (#equal contribution, *corresponding)
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=97-LZ1sAAAAJ).
 
 1. **Clc-db: an open-source online database of chiral ligands and catalysts**  
    **Gufeng Yu#**, Kaiwen Yu#, Xi Wang#, Chenxi Zhang, Yicong Luo, Xiaohong Huo\*, Yang Yang*  
