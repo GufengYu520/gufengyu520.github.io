@@ -54,7 +54,7 @@ I am looking for visiting PhD student opportunities in the field of <strong>AI/M
 
 ## Services
 
-**Teaching Assistant (TA):** Intelligent Algorithms for Science CS7357 | Fall 2025, Shanghai Jiao Tong University
+**Teaching Assistant (TA):** Intelligent Algorithms for Science CS7357 \| Fall 2025, Shanghai Jiao Tong University
 
 
 
