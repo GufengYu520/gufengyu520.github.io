@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-My name is Gufeng Yu from Yueyang, Hunan. I'm currently a Ph.D. candidate at the [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/index.aspx), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), advised by [Prof. Yang Yang](https://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=72). I obtained my Bachelor's degree from School of Life Sciences and Biotechnology, Shanghai Jiao Tong University in 2023. 
+My name is Gufeng Yu and I am from Yueyang in Hunan Province, China. I'm currently a Ph.D. candidate at the [School of Computer Science](https://www.cs.sjtu.edu.cn/index.aspx), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), advised by [Prof. Yang Yang](https://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=72). I obtained my Bachelor's degree from School of Life Sciences and Biotechnology, Shanghai Jiao Tong University in 2023. 
 
-My research interest is **AI for Science**. Specifically, the main research areas are the application of AI in genomics and organic chemistry. Examples include gene regulatory network reconstruction, cancer genomics and chemical reaction prediction.
+My research interest is **AI for Science**, with a specific focus on the application of AI in biochemistry and organic chemistry. Previously, my work centered on areas such as the reconstruction of gene regulatory networks and the chemical reaction prediction. Currently, I am concentrating on using generative models for the design of complex functional molecules and the analysis of intricate biomolecular dynamics. A key example of this is the *de novo* design of peptides within the immune system.
+
+<span style="color:red;">
+I am looking for visiting PhD student opportunities in the field of <strong>AI/ML research for Science</strong> starting from summer 2026! Please reach out if you find me interesting!
+</span>
 
 
 
@@ -45,6 +49,12 @@ My research interest is **AI for Science**. Specifically, the main research area
     Yuyang Huang#, **Gufeng Yu#**, Yang Yang*  
     ***PLOS Computational Biology***, 2023, 19(11): e1011623.  
     [[Paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011623)
+
+
+
+## Services
+
+**Teaching Assistant (TA):** Intelligent Algorithms for Science CS7357 | Fall 2025, Shanghai Jiao Tong University
 
 
 
