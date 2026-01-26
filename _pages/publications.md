@@ -9,9 +9,10 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=97-LZ1sAAAAJ).
 
-1. **A unifying geometric framework for computational representation of stereoisomers based on mixed product**. 
-   Runhan Shi#, Zhicheng Zhang#, **Gufeng Yu**, Xiaohong Huo, Yang Yang*
-   ***Cell Reports Physical Science***, 2026, 7(1).
+1. **A unifying geometric framework for computational representation of stereoisomers based on mixed product**.  
+   Runhan Shi#, Zhicheng Zhang#, **Gufeng Yu**, Xiaohong Huo, Yang Yang*  
+   **Cell Reports Physical Science**, 2026, 7(1).  
+   [[Paper]](https://doi.org/10.1016/j.xcrp.2025.103065)
 2. **RTMol: Rethinking Molecule-text Alignment in a Round-trip View**  
    Letian Chen, Runhan Shi, **Gufeng Yu**, Yang Yang*  
    **AAAI 2026**
@@ -42,9 +43,9 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
    ***Journal of Chemical Information and Modeling***, 2025, 65(1): 312-325.  
    [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.4c02120)
 10. **Prediction of chemical reaction yields with large-scale multi-view pre-training**  
-   Runhan Shi, **Gufeng Yu**, Xiaohong Huo, Yang Yang*  
-   ***Journal of Cheminformatics***, 2024, 16(1): 1-16.  
-   [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00815-2)
+      Runhan Shi, **Gufeng Yu**, Xiaohong Huo, Yang Yang*  
+      ***Journal of Cheminformatics***, 2024, 16(1): 1-16.  
+      [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00815-2)
 11. **Enhancing Cancer Gene Prediction through Aligned Fusion of Multiple PPI Networks Using Graph Transformer Models**  
        Zebei Han, **Gufeng Yu**, Yang Yang*  
        **2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)**  
