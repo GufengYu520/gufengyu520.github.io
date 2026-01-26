@@ -9,7 +9,7 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=97-LZ1sAAAAJ).
 
-1. **A unifying geometric framework for computational representation of stereoisomers based on mixed product**.  
+1. **A unifying geometric framework for computational representation of stereoisomers based on mixed product**  
    Runhan Shi#, Zhicheng Zhang#, **Gufeng Yu**, Xiaohong Huo, Yang Yang*  
    **Cell Reports Physical Science**, 2026, 7(1).  
    [[Paper]](https://doi.org/10.1016/j.xcrp.2025.103065)
