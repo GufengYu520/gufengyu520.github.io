@@ -14,7 +14,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
    ***Cell Reports Physical Science***, 2026, 7(1).  
    [[Paper]](https://doi.org/10.1016/j.xcrp.2025.103065) [[Server]](https://compbio.sjtu.edu.cn/services/chiralfinder)
 2. **RTMol: Rethinking Molecule-text Alignment in a Round-trip View**  
-   Letian Chen, Runhan Shi, **Gufeng Yu**, Yang Yang*  
+   Letian Chen#, Runhan Shi#, **Gufeng Yu**, Yang Yang*  
    **AAAI 2026**
 3. **Reaction Prediction via Interaction Modeling of Symmetric Difference Shingle Sets**  
    Runhan Shi, Letian Chen, **Gufeng Yu**, Yang Yang*  
