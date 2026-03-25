@@ -31,7 +31,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
    ***Journal of Cheminformatics***, 2025, 17(1): 1-12.
    [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-025-00991-9) [[Database]](https://compbio.sjtu.edu.cn/services/clc-db)
 7. **AtropDiff: Data-Scarce Atropisomer Generation via Multi-Task Pretrained Classifier-Guided Diffusion**
-   Letian Chen, Xi Wang, **Gufeng Yu**, Caihua Shan*, Yang Yang\*
+   Letian Chen#, Xi Wang#, **Gufeng Yu**, Caihua Shan*, Yang Yang\*
    **ICLR 2025 DeLTa Workshop**
 8. **YieldFCP: Enhancing Reaction Yield Prediction via Fine-grained Cross-modal Pre-training**
    Runhan Shi, **Gufeng Yu**, Letian Chen, Yang Yang*
