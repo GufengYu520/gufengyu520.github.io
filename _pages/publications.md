@@ -17,7 +17,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
    **ICLR 2026**
 3. **A unifying geometric framework for computational representation of stereoisomers based on mixed product**  
    Runhan Shi#, Chi Zhang#, **Gufeng Yu**, Xiaohong Huo, Yang Yang*  
-   ***Cell Reports Physical Science***, 2026, 7(1).  
+   ***Cell Reports Physical Science***, 2026, 7(1): 103065.  
    [[Paper]](https://doi.org/10.1016/j.xcrp.2025.103065) [[Server]](https://compbio.sjtu.edu.cn/services/chiralfinder)
 4. **RTMol: Rethinking Molecule-text Alignment in a Round-trip View**  
    Letian Chen#, Runhan Shi#, **Gufeng Yu**, Yang Yang*  
