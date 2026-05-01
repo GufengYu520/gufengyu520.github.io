@@ -20,6 +20,7 @@ I am looking for visiting PhD student opportunities in the field of <strong>AI/M
 
 ## Recent News
 
+- May 2026, EpiCoCo has been accepted by ICML 2026!
 - Mar. 2025, CLC-DB has been accepted by Journal of Cheminformatics!
 - Dec. 2024, SubA has been accepted by Journal of Chemical Information and Modeling!
 - Nov. 2023, MIGGRI has been accepted by PLOS Computational Biology!
@@ -37,15 +38,18 @@ I am looking for visiting PhD student opportunities in the field of <strong>AI/M
 
 (#equal contribution, *corresponding)
 
-1. **Clc-db: an open-source online database of chiral ligands and catalysts**  
+1. **EpiCoCo: De Novo Epitope Generation via MHC-Context Co-Modeling and Contrastive Affinity Guidance**  
+    Haoyang Luan#, **Gufeng Yu#**, Letian Chen#, Zhenran Xiao, Yueshan Huang, Junkun Guo, Yang Yang*  
+    **ICML 2026**
+2. **Clc-db: an open-source online database of chiral ligands and catalysts**  
     **Gufeng Yu#**, Kaiwen Yu#, Xi Wang#, Chenxi Zhang, Yicong Luo, Xiaohong Huo\*, Yang Yang*  
     ***Journal of Cheminformatics***, 2025, 17(1): 1-12.  
     [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-025-00991-9)
-5. **Machine Learning for Reaction Performance Prediction in Allylic Substitution Enhanced by Automatic Extraction of a Substrate-Aware Descriptor**  
+3. **Machine Learning for Reaction Performance Prediction in Allylic Substitution Enhanced by Automatic Extraction of a Substrate-Aware Descriptor**  
     **Gufeng Yu#**, Xi Wang#, Yicong Luo, Guanlin Li, Rui Ding, Runhan Shi, Xiaohong Huo\*, Yang Yang*  
     ***Journal of Chemical Information and Modeling***, 2025, 65(1): 312-325.  
     [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.4c02120)
-8. **MIGGRI: A multi-instance graph neural network model for inferring gene regulatory networks for Drosophila from spatial expression images**  
+4. **MIGGRI: A multi-instance graph neural network model for inferring gene regulatory networks for Drosophila from spatial expression images**  
     Yuyang Huang#, **Gufeng Yu#**, Yang Yang*  
     ***PLOS Computational Biology***, 2023, 19(11): e1011623.  
     [[Paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011623)
