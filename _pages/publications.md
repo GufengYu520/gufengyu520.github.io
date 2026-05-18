@@ -21,7 +21,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
    [[Paper]](https://doi.org/10.1016/j.xcrp.2025.103065) [[Server]](https://compbio.sjtu.edu.cn/services/chiralfinder)
 4. **RTMol: Rethinking Molecule-text Alignment in a Round-trip View**  
    Letian Chen#, Runhan Shi#, **Gufeng Yu**, Yang Yang*  
-   **AAAI 2026**
+   **AAAI 2026**  
+   [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/36966)
 5. **Reaction Prediction via Interaction Modeling of Symmetric Difference Shingle Sets**  
    Runhan Shi, Letian Chen, **Gufeng Yu**, Yang Yang*  
    **NeurIPS 2025**
@@ -41,9 +42,9 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
    ***Artificial Intelligence Chemistry***, 2025, 3(1): 100085.  
    [[Paper]](https://doi.org/10.1016/j.aichem.2025.100085)
 10. **ZeRPI: A graph neural network model for zero-shot prediction of RNA-protein interactions**  
-   Yifei Gao, Runhan Shi, **Gufeng Yu**, Yuyang Huang, Yang Yang*  
-   ***Methods***, 2025, 235: 45-52.  
-   [[Paper]](https://doi.org/10.1016/j.ymeth.2025.01.014)
+Yifei Gao, Runhan Shi, **Gufeng Yu**, Yuyang Huang, Yang Yang*  
+***Methods***, 2025, 235: 45-52.  
+[[Paper]](https://doi.org/10.1016/j.ymeth.2025.01.014)
 11. **Machine Learning for Reaction Performance Prediction in Allylic Substitution Enhanced by Automatic Extraction of a Substrate-Aware Descriptor**  
     **Gufeng Yu#**, Xi Wang#, Yicong Luo, Guanlin Li, Rui Ding, Runhan Shi, Xiaohong Huo\*, Yang Yang*  
     ***Journal of Chemical Information and Modeling***, 2025, 65(1): 312-325.  
