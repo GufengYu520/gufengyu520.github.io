@@ -11,7 +11,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 1. **EPIC: Multi-objective Guided Diffusion for Epitope Design in TCR-pMHC Complexes**  
    Yueshan Huang#, **Gufeng Yu#**, Letian Chen#, Haoyang Luan, Yang Yang*  
-   ***Bioinformatics***, 2026.
+   ***Bioinformatics***, 2026: btag358.  
+   [[Paper]](https://doi.org/10.1093/bioinformatics/btag358)
 2. **EpiCoCo: De Novo Epitope Generation via MHC-Context Co-Modeling and Contrastive Affinity Guidance**  
    Haoyang Luan#, **Gufeng Yu#**, Letian Chen#, Zhenran Xiao, Yueshan Huang, Junkun Guo, Yang Yang*  
    **ICML 2026**
@@ -41,9 +42,9 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
    Letian Chen#, Xi Wang#, **Gufeng Yu**, Caihua Shan*, Yang Yang\*  
    **ICLR 2025 DeLTa Workshop**
 10. **YieldFCP: Enhancing Reaction Yield Prediction via Fine-grained Cross-modal Pre-training**  
-   Runhan Shi, **Gufeng Yu**, Letian Chen, Yang Yang*  
-   ***Artificial Intelligence Chemistry***, 2025, 3(1): 100085.  
-   [[Paper]](https://doi.org/10.1016/j.aichem.2025.100085)
+       Runhan Shi, **Gufeng Yu**, Letian Chen, Yang Yang*  
+       ***Artificial Intelligence Chemistry***, 2025, 3(1): 100085.  
+       [[Paper]](https://doi.org/10.1016/j.aichem.2025.100085)
 11. **ZeRPI: A graph neural network model for zero-shot prediction of RNA-protein interactions**  
     Yifei Gao, Runhan Shi, **Gufeng Yu**, Yuyang Huang, Yang Yang*  
     ***Methods***, 2025, 235: 45-52.  

@@ -41,7 +41,8 @@ I am looking for visiting PhD student opportunities in the field of <strong>AI/M
 
 1. **EPIC: Multi-objective Guided Diffusion for Epitope Design in TCR-pMHC Complexes**  
     Yueshan Huang#, **Gufeng Yu#**, Letian Chen#, Haoyang Luan, Yang Yang*  
-    ***Bioinformatics***, 2026.
+    ***Bioinformatics***, 2026: btag358.  
+    [[Paper]](https://doi.org/10.1093/bioinformatics/btag358)
 2. **EpiCoCo: De Novo Epitope Generation via MHC-Context Co-Modeling and Contrastive Affinity Guidance**  
     Haoyang Luan#, **Gufeng Yu#**, Letian Chen#, Zhenran Xiao, Yueshan Huang, Junkun Guo, Yang Yang*  
     **ICML 2026**
