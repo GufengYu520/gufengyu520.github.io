@@ -20,6 +20,7 @@ I am looking for visiting PhD student opportunities in the field of <strong>AI/M
 
 ## Recent News
 
+- June 2026, GENIE has been accepted by IEEE Transactions on Computational Biology and Bioinformatics!
 - May 2026, EPIC has been accepted by Bioinformatics!
 - May 2026, EpiCoCo has been accepted by ICML 2026!
 - Mar. 2025, CLC-DB has been accepted by Journal of Cheminformatics!
@@ -64,6 +65,8 @@ I am looking for visiting PhD student opportunities in the field of <strong>AI/M
 ## Services
 
 **Teaching Assistant (TA):** Intelligent Algorithms for Science CS7357 \| Fall 2025, Shanghai Jiao Tong University
+
+**Reviewer:** JCIM, Journal of Cheminformatics.
 
 
 
