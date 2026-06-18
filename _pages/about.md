@@ -55,10 +55,6 @@ I am looking for visiting PhD student opportunities in the field of <strong>AI/M
     **Gufeng Yu#**, Xi Wang#, Yicong Luo, Guanlin Li, Rui Ding, Runhan Shi, Xiaohong Huo\*, Yang Yang*  
     ***Journal of Chemical Information and Modeling***, 2025, 65(1): 312-325.  
     [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.4c02120)
-5. **MIGGRI: A multi-instance graph neural network model for inferring gene regulatory networks for Drosophila from spatial expression images**  
-    Yuyang Huang#, **Gufeng Yu#**, Yang Yang*  
-    ***PLOS Computational Biology***, 2023, 19(11): e1011623.  
-    [[Paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011623)
 
 
 
