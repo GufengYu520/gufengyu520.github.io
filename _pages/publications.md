@@ -13,7 +13,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
    **Gufeng Yu#**, Haifeng Ying#, Jun Liu, Najaf Amin, Cornelia M. van Duijn,  Yang Yang*  
    ***IEEE Transactions on Computational Biology and Bioinformatics***, 2026.  
    [[Paper]](https://doi.org/10.1109/tcbbio.2026.3705398)
-2. **EPIC: Multi-objective Guided Diffusion for Epitope Design in TCR-pMHC Complexes**  
+2. **EPIC: multi-objective guided diffusion for epitope design in TCR-pMHC complexes**  
    Yueshan Huang#, **Gufeng Yu#**, Letian Chen#, Haoyang Luan, Yang Yang*  
    ***Bioinformatics***, 2026, 42(6): btag358.  
    [[Paper]](https://doi.org/10.1093/bioinformatics/btag358)
