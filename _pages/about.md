@@ -28,19 +28,19 @@ My research interest is **AI for Science**, with a specific focus on the applica
 
 ## 📰 Recent News
 
-- **Jun. 2026** — GENIE has been accepted by *IEEE Transactions on Computational Biology and Bioinformatics*! 🎉
-- **May 2026** — EPIC has been accepted by *Bioinformatics*! 🎉
-- **May 2026** — EpiCoCo has been accepted by **ICML 2026**! 🎉
-- **Mar. 2025** — CLC-DB has been accepted by *Journal of Cheminformatics*!
-- **Dec. 2024** — SubA has been accepted by *Journal of Chemical Information and Modeling*!
-- **Nov. 2023** — MIGGRI has been accepted by *PLOS Computational Biology*!
+- **Jun. 2026** — GENIE has been accepted by IEEE Transactions on Computational Biology and Bioinformatics! 🎉
+- **May 2026** — EPIC has been accepted by Bioinformatics! 🎉
+- **May 2026** — EpiCoCo has been accepted by ICML 2026! 🎉
+- **Mar. 2025** — CLC-DB has been accepted by Journal of Cheminformatics! 🎉
+- **Dec. 2024** — SubA has been accepted by Journal of Chemical Information and Modeling! 🎉
+- **Nov. 2023** — MIGGRI has been accepted by PLOS Computational Biology! 🎉
 
 ---
 
 ## 🎓 Education
 
-- **Ph.D.** in Computer Science and Technology, *Shanghai Jiao Tong University*, 2023–Present
-- **B.S.** in Biotechnology (Bioinformatics), *Shanghai Jiao Tong University*, 2019–2023
+- **Ph.D.** in Computer Science and Technology, Shanghai Jiao Tong University, 2023–Present
+- **B.S.** in Biotechnology (Bioinformatics), Shanghai Jiao Tong University, 2019–2023
 
 ---
 

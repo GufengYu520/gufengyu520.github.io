@@ -10,8 +10,9 @@ author_profile: true
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=97-LZ1sAAAAJ).
 
 1. **GENIE: A Two-Stage Interpretable Deep Learning Framework for Revealing the High-Order Genetic Interaction Network of Alzheimer’s Disease**  
-   Gufeng Yu#, Haifeng Ying#, Jun Liu, Najaf Amin, Cornelia M. van Duijn,  Yang Yang*  
-   ***IEEE Transactions on Computational Biology and Bioinformatics***, 2026.
+   **Gufeng Yu#**, Haifeng Ying#, Jun Liu, Najaf Amin, Cornelia M. van Duijn,  Yang Yang*  
+   ***IEEE Transactions on Computational Biology and Bioinformatics***, 2026.  
+   [[Paper]](https://doi.org/10.1109/tcbbio.2026.3705398)
 2. **EPIC: Multi-objective Guided Diffusion for Epitope Design in TCR-pMHC Complexes**  
    Yueshan Huang#, **Gufeng Yu#**, Letian Chen#, Haoyang Luan, Yang Yang*  
    ***Bioinformatics***, 2026: btag358.  
@@ -42,12 +43,12 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
    ***Journal of Cheminformatics***, 2025, 17(1): 1-12.  
    [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-025-00991-9) [[Database]](https://compbio.sjtu.edu.cn/services/clc-db)
 10. **AtropDiff: Data-Scarce Atropisomer Generation via Multi-Task Pretrained Classifier-Guided Diffusion**  
-   Letian Chen#, Xi Wang#, **Gufeng Yu**, Caihua Shan*, Yang Yang\*  
-   **ICLR 2025 DeLTa Workshop**
+Letian Chen#, Xi Wang#, **Gufeng Yu**, Caihua Shan*, Yang Yang\*  
+**ICLR 2025 DeLTa Workshop**
 11. **YieldFCP: Enhancing Reaction Yield Prediction via Fine-grained Cross-modal Pre-training**  
-       Runhan Shi, **Gufeng Yu**, Letian Chen, Yang Yang*  
-       ***Artificial Intelligence Chemistry***, 2025, 3(1): 100085.  
-       [[Paper]](https://doi.org/10.1016/j.aichem.2025.100085)
+    Runhan Shi, **Gufeng Yu**, Letian Chen, Yang Yang*  
+    ***Artificial Intelligence Chemistry***, 2025, 3(1): 100085.  
+    [[Paper]](https://doi.org/10.1016/j.aichem.2025.100085)
 12. **ZeRPI: A graph neural network model for zero-shot prediction of RNA-protein interactions**  
     Yifei Gao, Runhan Shi, **Gufeng Yu**, Yuyang Huang, Yang Yang*  
     ***Methods***, 2025, 235: 45-52.  
