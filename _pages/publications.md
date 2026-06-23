@@ -15,7 +15,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
    [[Paper]](https://doi.org/10.1109/tcbbio.2026.3705398)
 2. **EPIC: Multi-objective Guided Diffusion for Epitope Design in TCR-pMHC Complexes**  
    Yueshan Huang#, **Gufeng Yu#**, Letian Chen#, Haoyang Luan, Yang Yang*  
-   ***Bioinformatics***, 2026: btag358.  
+   ***Bioinformatics***, 2026, 42(6): btag358.  
    [[Paper]](https://doi.org/10.1093/bioinformatics/btag358)
 3. **EpiCoCo: De Novo Epitope Generation via MHC-Context Co-Modeling and Contrastive Affinity Guidance**  
    Haoyang Luan#, **Gufeng Yu#**, Letian Chen#, Zhenran Xiao, Yueshan Huang, Junkun Guo, Yang Yang*  
