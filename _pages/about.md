@@ -46,7 +46,7 @@ My research interest is **AI for Science**, with a specific focus on the applica
 
 ## 🔬 Selected Publications
 
-*(#equal contribution, *corresponding)*
+(#equal contribution, *corresponding)
 
 1. **EPIC: multi-objective guided diffusion for epitope design in TCR-pMHC complexes**  
    Yueshan Huang#, **Gufeng Yu#**, Letian Chen#, Haoyang Luan, Yang Yang*  
