@@ -72,7 +72,7 @@ My research interest is **AI for Science**, with a specific focus on the applica
 ## 👨‍🏫 Services
 
 - **Teaching Assistant (TA):** Intelligent Algorithms for Science CS7357 \| Fall 2025, Shanghai Jiao Tong University
-- **Reviewer:** *JCIM*, *Journal of Cheminformatics*
+- **Reviewer:** *Journal of Chemical Information and Modeling*, *Journal of Cheminformatics*, *npj Computational Materials*
 
 ---
 
