@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-My name is Gufeng Yu and I am from Yueyang in Hunan Province, China. I'm currently a Ph.D. candidate at the [School of Computer Science](https://www.cs.sjtu.edu.cn/index.aspx), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), advised by [Prof. Yang Yang](https://www.cs.sjtu.edu.cn/jiaoshiml/yangyang.html). I obtained my Bachelor's degree from School of Life Sciences and Biotechnology, Shanghai Jiao Tong University in 2023.
+My name is Gufeng Yu and I am from Yueyang in Hunan Province, China. I'm currently a Ph.D. candidate at the [School of Computer Science](https://www.cs.sjtu.edu.cn/index.aspx), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), advised by [Prof. Yang Yang](https://www.cs.sjtu.edu.cn/jiaoshiml/yangyang.html). And I'm now a visiting PhD student at the [Stratingh Institute for Chemistry](https://www.rug.nl/research/stratingh/) at the [University of Groningen](https://www.rug.nl/), collaborating with Profs [Robert Pollice](https://pollicegroup.web.rug.nl/) and [Francesca Grisoni](https://molecularmachinelearning.com/). I obtained my Bachelor's degree from School of Life Sciences and Biotechnology, Shanghai Jiao Tong University in 2023.
 
 My research interest is **AI for Science**, with a specific focus on the application of AI in biochemistry and organic chemistry. Previously, my work centered on areas such as the reconstruction of gene regulatory networks and the chemical reaction prediction. Currently, I am concentrating on using generative models for the design of complex functional molecules and the analysis of intricate biomolecular dynamics. A key example of this is the *de novo* design of peptides within the immune system.
 
@@ -21,8 +21,7 @@ My research interest is **AI for Science**, with a specific focus on the applica
   <img src="https://img.shields.io/badge/Method-Diffusion%20Models-purple?style=flat-square" alt="Diffusion Models">
 </p>
 
-**🚀 I am looking for visiting PhD student opportunities in the field of AI/ML research for Science starting from summer 2026! Please reach out if you find me interesting!**
-{: .notice--warning}
+
 
 ---
 
@@ -40,6 +39,7 @@ My research interest is **AI for Science**, with a specific focus on the applica
 ## 🎓 Education
 
 - **Ph.D.** in Computer Science and Technology, Shanghai Jiao Tong University, 2023–Present
+- **Visiting Ph.D.**, University of Groningen, 2026.11-Present
 - **B.S.** in Biotechnology (Bioinformatics), Shanghai Jiao Tong University, 2019–2023
 
 ---
